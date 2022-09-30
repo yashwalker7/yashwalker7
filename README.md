@@ -3,7 +3,8 @@
 [![MasterHead](https://s3.amazonaws.com/algoworksupload/new-algoworks/wp-content/uploads/2016/05/18052646/stm_banner.gif)
 <h1 align="center">Hi 👋, I'm Yash Vaman</h1>
 <h3 align="center">"The best error message is the one that never shows up."</h3>
-(img align="right" alt="Coding" width="400" src="https://i.gifer.com/AZzk.gif")
+
+![AZzk](https://user-images.githubusercontent.com/102256756/193273988-b29491dd-3233-4f05-a3cf-26dc57572d4d.gif)
 
 <p align="left"> <a href="https://twitter.com/whiteewalker7" target="blank"><img src="https://img.shields.io/twitter/follow/whiteewalker7?logo=twitter&style=for-the-badge" alt="whiteewalker7" /></a> </p>
 
