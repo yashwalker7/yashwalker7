@@ -1,39 +1,95 @@
 ### Hi there 👋
 
 ![MasterHead](https://repository-images.githubusercontent.com/245385808/f1342400-cbd9-11eb-84d5-36d6ce41d01a)
+
 <h1 align="center">Hi 👋, I'm Yash Vaman</h1>
-<h3 align="center">"The best error message is the one that never shows up."</h3>
+<h3 align="center">Data Scientist | Machine Learning Engineer | AI Engineer</h3>
+
+<h4 align="center">
+Building data-driven systems, production-ready ML pipelines, and applied AI solutions.
+</h4>
 
 ![AZzk](https://user-images.githubusercontent.com/102256756/193273988-b29491dd-3233-4f05-a3cf-26dc57572d4d.gif)
 
-<p align="left"> <a href="https://twitter.com/whiteewalker7" target="blank"><img src="https://img.shields.io/twitter/follow/whiteewalker7?logo=twitter&style=for-the-badge" alt="whiteewalker7" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Chess Engine using AI/ML**
+### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Frameworks, CyberSecurity and Data Analytics**
+- 🎓 Computer Science Engineer with advanced training in **Artificial Intelligence, Machine Learning, and Data Science**
+- 🔬 Experienced in **end-to-end ML workflows** — from data analysis and feature engineering to model deployment and monitoring
+- 🧠 Strong focus on **applied AI**, including Computer Vision, Healthcare AI, and LLM-based systems
+- ⚙️ Hands-on with **MLOps, CI/CD pipelines, Apache Airflow**, and cloud-based ML workflows (AWS, Azure, GCP)
+- 📊 Passionate about using data and AI to solve **real-world, high-impact problems**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yashwalker7](https://github.com/yashwalker7)
+---
 
-- 📫 How to reach me **yash.vaman7@gmail.com**
+### 🔬 Featured Projects
 
-- ⚡ Fun fact **I don't care about it. It's nothing to me. It's a bacterium! I travelled in worlds you can't even imagine. You can't conceive of what I'm capable of. I'm so far beyond you. I'm like a god in human clothing. Lightning bolts shoot from my fingertips!**
+- **ACEPOSE – Tennis Pose Recognition (Deep Learning)**  
+  CNN-based computer vision system using PyTorch, achieving **97% validation F1-score**, with Grad-CAM for model explainability.
 
-<h3 align="left">Connect with me:</h3>
+- **F1 Race Strategy Predictor (Machine Learning)**  
+  ML-driven system leveraging telemetry, weather, and tyre degradation data to recommend optimal race strategies under dynamic conditions.
+
+- **F1 Optimal – Global Travel Route Optimization (Data Science)**  
+  Optimization and visualization tool reducing **carbon emissions by 40%** and **travel costs by 30%** for Formula 1 race logistics.
+
+- **IVF Patient Support Chatbot (LLM + RAG)**  
+  AI-powered healthcare chatbot using **LLaMA-based LLMs** and Retrieval-Augmented Generation to deliver accurate, context-aware responses.
+
+- **Embryo Quality Prediction (Healthcare AI)**  
+  Supervised ML model achieving **>85% predictive accuracy**, supporting clinical decision-making in IVF workflows.
+
+➡️ *All projects are available here:*  
+👉 **https://github.com/yashwalker7**
+
+---
+
+### 🧰 Core Skills
+
+**Programming & Data:**  
+Python, SQL, R, Pandas, NumPy, PySpark
+
+**Machine Learning & AI:**  
+Supervised & Unsupervised Learning, Feature Engineering, Model Evaluation, CNNs, Deep Learning
+
+**LLMs & NLP:**  
+Large Language Models (LLMs), LLaMA, Prompt Engineering, Retrieval-Augmented Generation (RAG)
+
+**MLOps & Pipelines:**  
+MLflow, Docker, CI/CD Pipelines, Apache Airflow (ETL & ML workflows)
+
+**Visualization & Apps:**  
+Matplotlib, Seaborn, Plotly, Streamlit
+
+**Cloud & Tools:**  
+AWS, Azure, GCP, Git, GitHub Actions
+
+---
+
+### 🏆 Recognition & Achievements
+
+- 🥇 **Gold Medalist**, Data Science Certification (NASSCOM – Government of India)  
+- 🏎️ **F1 Optimal** showcased at *Young Motorsports Minds* special projects program, appreciated by senior motorsports professionals  
+- 📄 Co-authored and presented a **peer-reviewed research paper** on AI-based chess engines at a national conference  
+- 🧠 Ranked among the **Top 100 nationwide** in GeeksforGeeks DSA competition  
+- 🌍 IELTS **7.5 (CEFR C1)** – Professional English proficiency
+
+---
+
+### 📫 Connect With Me
+
 <p align="left">
-<a href="https://codepen.io/yashwalker7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yashwalker7" height="30" width="40" /></a>
-<a href="https://twitter.com/whiteewalker7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whiteewalker7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yash vaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash vaman" height="30" width="40" /></a>
-<a href="https://instagram.com/whitewalker.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whitewalker.exe" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/whiteewalker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="whiteewalker" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/whiteewalker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="whiteewalker" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/yashvaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yashvaman" height="30" width="40" /></a>
-<a href="https://discord.gg/#9778" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9778" height="30" width="40" /></a>
+<a href="https://codepen.io/yashwalker7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" width="40" /></a>
+<a href="https://twitter.com/whiteewalker7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yash-vaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/whitewalker.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/whiteewalker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/yashvaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashwalker7&show_icons=true&locale=en&layout=compact" alt="yashwalker7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashwalker7&show_icons=true&locale=en" alt="yashwalker7" /></p>
-
