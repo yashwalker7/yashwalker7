@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![MasterHead](https://s3.amazonaws.com/algoworksupload/new-algoworks/wp-content/uploads/2016/05/18052646/stm_banner.gif)
+![MasterHead](https://s3.amazonaws.com/algoworksupload/new-algoworks/wp-content/uploads/2016/05/18052646/stm_banner.gif)
 <h1 align="center">Hi 👋, I'm Yash Vaman</h1>
 <h3 align="center">"The best error message is the one that never shows up."</h3>
 
